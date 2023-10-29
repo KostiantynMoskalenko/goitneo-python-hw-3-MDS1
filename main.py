@@ -12,11 +12,10 @@ The bot works with following commands:
 8) hello                                   Receive "Hello" from the bot.
 9) close OR exit                           Close the program.
 10) help                                   Get this list of commands.
-
-
-
-
 '''
+
+
+
 from classes import AddressBook, Record
 
 
